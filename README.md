@@ -1,8 +1,8 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
+#Pixicon
 
-![Pexelicons Logo](assets/images/Websitescreenshot.png)
+![Pixicon Logo](assets/images/Websitescreenshot.png)
 
-Pexelicons is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
+Pixicon is a website that offers custom folder icons for Windows, allowing users to personalize their PC by changing the default folder icons to match their style preferences.
 
 ## Features
 
@@ -23,7 +23,7 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 
 ### Download Icons
 
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
+Visit the [Pixicon Website](https://vinodjangid07.github.io/Pixicon) to download custom folder icons for your PC.
 
 ### How to Use
 
@@ -39,7 +39,7 @@ Follow these steps to apply custom icons to your folders:
 
 ## Contributing
 
-If you'd like to contribute to Pexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+If you'd like to contribute to Pixicon, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## License
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/vinodjangid07">@Vinodjangid07</a> | &copy; twentytwentyfour</p>
+<p align="center">Design & Built by <a href="https://github.com/tobiasrahul">@tobiasrahul</a> | &copy; twentytwentyfour</p>
