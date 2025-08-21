@@ -16,7 +16,6 @@ Pixicon is a website that offers custom folder icons for Windows, allowing users
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Getting Started
 
 ### Download Icons
